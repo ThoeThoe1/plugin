@@ -1,0 +1,4 @@
+name: pvp
+version: '${project.version}'
+main: net.gamingvalley.thomas.Pvp
+authors: [Thomas]
